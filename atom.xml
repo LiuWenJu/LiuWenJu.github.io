@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title><![CDATA[Qiujie Li and Wenju Liu' blog]]></title>
+  <subtitle><![CDATA[The witness of true love]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com//"/>
+  <updated>2015-08-12T08:55:43.000Z</updated>
+  <id>http://yoursite.com//</id>
+  
+  <author>
+    <name><![CDATA[李秋杰&刘文举]]></name>
+    <email><![CDATA[liuwenju0123@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[随想]]></title>
+    <link href="http://yoursite.com/2015/08/12/test/"/>
+    <id>http://yoursite.com/2015/08/12/test/</id>
+    <published>2015-08-12T08:13:55.000Z</published>
+    <updated>2015-08-12T08:55:43.000Z</updated>
+    <content type="html"><![CDATA[<a id="more"></a>
+<h1 id="随想">随想</h1><p>  远观一泓平静的湖面,慢慢走近,微风轻轻拂来,鹅黄色的柳条婆娑起舞,柔和的午后阳光像碎金子般<br>倾泻在一圈一圈荡漾开来的波纹里,视线右移,墨绿的荷叶上陡然见清新别样亭亭玉立.湖心亭,石座<br>上,一少年白衣胜雪,气定神闲,袖手一挥,鱼竿正入湖心,除了一小圈的涟漪外,空气都凝固了,不知从<br>哪里飞来一只漂亮的蜻蜓,不偏不倚正落在鱼竿与鱼线的交界处,画面静止了,一切都是融洽的……<br>  突然,蜻蜓震动了一下翅膀,紧接着是更剧烈的扇动,两秒后,蜻蜓顺着阳光飞走了,雨儿上钩了,少年<br>笑了</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<a id="more"></a>
+<h1 id="随想">随想</h1><p>  远观一泓平静的湖面,慢慢走近,微风轻轻拂来,鹅黄色的柳条婆娑起舞,柔和的午后阳光像碎金子般<br>倾泻在一圈一圈荡漾开来的波纹里,视线右移,墨绿的荷叶上陡然见清新别样亭亭玉立.湖心亭,石座<br>]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2015/08/11/hello-world/"/>
+    <id>http://yoursite.com/2015/08/11/hello-world/</id>
+    <published>2015-08-11T12:21:19.000Z</published>
+    <updated>2015-08-11T12:21:19.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
